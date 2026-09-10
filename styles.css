@@ -1,0 +1,19 @@
+.gallery-header {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.gallery-header h1 {
+  font-size: 4rem;
+  letter-spacing: 10px;
+}
+
+.gallery-header p {
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}
+
+.gallery-booking {
+  text-align: center;
+  padding: 80px 20px;
+}

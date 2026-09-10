@@ -1,0 +1,67 @@
+---
+title: "Price Breakdown"
+---
+
+## Automotive Photography
+
+### Starting at \$\_\_\_
+
+Cinematic automotive photography designed to showcase the vehicle, its details, and the personality behind it.
+
+**Includes**
+
+- Pre-shoot consultation
+- Location planning
+- Up to \_\_\_ hours of shooting
+- \_\_\_ professionally edited images
+- High-resolution digital delivery
+
+<a href="booking.qmd" class="button"> BOOK AUTOMOTIVE </a>
+
+------------------------------------------------------------------------
+
+## Portrait Photography
+
+### Starting at \$\_\_\_
+
+Cinematic portrait sessions designed around your personality, style, and vision.
+
+**Includes**
+
+- Pre-shoot consultation
+- Location planning
+- Up to \_\_\_ hour session
+- \_\_\_ professionally edited images
+- High-resolution digital delivery
+
+<a href="booking.qmd" class="button"> BOOK PORTRAIT </a>
+
+------------------------------------------------------------------------
+
+## Lifestyle Photography
+
+### Starting at \$\_\_\_
+
+Natural, cinematic imagery for individuals, brands, social media, and personal projects.
+
+**Includes**
+
+- Creative planning
+- Location consultation
+- Up to \_\_\_ hours
+- \_\_\_ professionally edited images
+- High-resolution digital delivery
+
+<a href="booking.qmd" class="button"> BOOK LIFESTYLE </a>
+
+------------------------------------------------------------------------
+
+## Custom Projects
+
+### Let's Talk
+
+Have something different in mind?
+
+Iron Halo Visuals also offers customized photography packages for brands, events, automotive projects, creative campaigns, and other visual storytelling projects.
+
+<a href="contact.qmd" class="button"> CONTACT ME </a>

@@ -1,0 +1,42 @@
+:::: ironhalovisuals
+![](images/Other/ChatGPT%20Image%20Aug%2025,%202026,%2004_30_37%20PM.jpeg){.hero-image}
+
+::: hero-content
+:::
+::::
+
+## Cinematic Stories. Bold Perspectives.
+
+Iron Halo Visuals creates cinematic photography centered around automotive culture, portraits, lifestyle, and the moments that make people and places unforgettable.
+
+:::::: category-grid
+::: {}
+### AUTOMOTIVE
+
+Motion, machines, and the culture surrounding them.
+
+<a href="gallery.qmd">View Automotive →</a>
+:::
+
+::: {}
+### PORTRAITS
+
+Cinematic portraits built around personality and character.
+
+<a href="gallery.qmd">View Portraits →</a>
+:::
+
+::: {}
+### LIFESTYLE
+
+Authentic moments captured with a cinematic perspective.
+
+<a href="gallery.qmd">View Lifestyle →</a>
+:::
+::::::
+
+## Let's Create Something
+
+Whether you're looking for automotive photography, portraits, lifestyle content, or something completely custom, Iron Halo Visuals brings a cinematic approach to every project.
+
+GO TO THE BOOK NOW TAB TO BOOK A SESSION

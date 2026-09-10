@@ -1,0 +1,32 @@
+
+---
+title: "Book Iron Halo Visuals"
+---
+
+# Book a Session
+
+## Let's create something cinematic.
+
+Choose a service, select a date and time, and tell me a little
+about your project.
+
+<div class="booking-container">
+
+<!-- <!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0fZF7tGb-NBsM2iOF3pzihkxC66Tg8TUjQ-KKmvC8RAzs5TKUd0Mkh-bhMawG7rPo9YrC2GINL?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling --> -->
+
+</div>
+
+## Before You Book
+
+Please have an idea of:
+
+- What you'd like photographed
+- Your preferred location
+- Your preferred date
+- The type of photography you're interested in
+- Any specific creative ideas
+
+For larger projects or commercial work, please use the
+<a href="contact.qmd">contact page</a> instead.
