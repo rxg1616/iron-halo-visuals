@@ -7,141 +7,76 @@ title: "Gallery"
 Cinematic photography.\
 Automotive. Portraits. Lifestyle.
 
-
 ## AUTOMOTIVE
 
-::: {layout-ncol=3}
+::: {layout-ncol="3"}
+![](images/automotive/car1.jpg) ![](images/automotive/car2.jpg) ![](images/automotive/car3.jpg)
 
-![](images/automotive/car1.jpg)
-![](images/automotive/car2.jpg)
-![](images/automotive/car3.jpg)
+![](images/automotive/car4.jpg) ![](images/automotive/car5.jpg) ![](images/automotive/car6.jpg)
 
-![](images/automotive/car4.jpg)
-![](images/automotive/car5.jpg)
-![](images/automotive/car6.jpg)
+![](images/automotive/car7.jpg) ![](images/automotive/car8.jpg) ![](images/automotive/car9.jpg)
 
-![](images/automotive/car7.jpg)
-![](images/automotive/car8.jpg)
-![](images/automotive/car9.jpg)
+![](images/automotive/car10.jpg) ![](images/automotive/car11.jpg) ![](images/automotive/car12.jpg)
 
-![](images/automotive/car10.jpg)
-![](images/automotive/car11.jpg)
-![](images/automotive/car12.jpg)
+![](images/automotive/car13.jpg) ![](images/automotive/car14.jpg) ![](images/automotive/car15.jpg)
 
-![](images/automotive/car13.jpg)
-![](images/automotive/car14.jpg)
-![](images/automotive/car15.jpg)
+![](images/automotive/car16.jpg) ![](images/automotive/car17.jpg) ![](images/automotive/car18.jpg)
 
-![](images/automotive/car16.jpg)
-![](images/automotive/car17.jpg)
-![](images/automotive/car18.jpg)
+![](images/automotive/car19.jpg) ![](images/automotive/car20.jpg) ![](images/automotive/car21.jpg)
 
-![](images/automotive/car19.jpg)
-![](images/automotive/car20.jpg)
-![](images/automotive/car21.jpg)
+![](images/automotive/car22.jpg) ![](images/automotive/car23.jpg) ![](images/automotive/car24.jpg)
 
-![](images/automotive/car22.jpg)
-![](images/automotive/car23.jpg)
-![](images/automotive/car24.jpg)
+![](images/automotive/car25.jpg) ![](images/automotive/car26.jpg) ![](images/automotive/car27.jpg)
 
-![](images/automotive/car25.jpg)
-![](images/automotive/car26.jpg)
-![](images/automotive/car27.jpg)
+![](images/automotive/car28.jpg) ![](images/automotive/car29.jpg) ![](images/automotive/car30.jpg)
 
-![](images/automotive/car28.jpg)
-![](images/automotive/car29.jpg)
-![](images/automotive/car30.jpg)
+![](images/automotive/car31.jpg) ![](images/automotive/car32.jpg) ![](images/automotive/car33.jpg)
 
-![](images/automotive/car31.jpg)
-![](images/automotive/car32.jpg)
-![](images/automotive/car33.jpg)
+![](images/automotive/car34.jpg) ![](images/automotive/car35.jpg) ![](images/automotive/car36.jpg)
 
-![](images/automotive/car34.jpg)
-![](images/automotive/car35.jpg)
-![](images/automotive/car36.jpg)
+![](images/automotive/car37.jpg) ![](images/automotive/car38.jpg) ![](images/automotive/car39.jpg)
 
-![](images/automotive/car37.jpg)
-![](images/automotive/car38.jpg)
-![](images/automotive/car39.jpg)
+![](images/automotive/car40.jpg) ![](images/automotive/car41.jpg) ![](images/automotive/car42.jpg)
 
-![](images/automotive/car40.jpg)
-![](images/automotive/car41.jpg)
-![](images/automotive/car42.jpg)
+![](images/automotive/car43.jpg) ![](images/automotive/car44.jpg) ![](images/automotive/car45.jpg)
 
-![](images/automotive/car43.jpg)
-![](images/automotive/car44.jpg)
-![](images/automotive/car45.jpg)
+![](images/automotive/car46.jpg) ![](images/automotive/car47.jpg) ![](images/automotive/car48.jpg)
 
-![](images/automotive/car46.jpg)
-![](images/automotive/car47.jpg)
-![](images/automotive/car48.jpg)
+![](images/automotive/car49.jpg) ![](images/automotive/car50.jpg) ![](images/automotive/car51.jpg)
 
-![](images/automotive/car49.jpg)
-![](images/automotive/car50.jpg)
-![](images/automotive/car51.jpg)
+![](images/automotive/car52.jpg) ![](images/automotive/car53.jpg) ![](images/automotive/car54.jpg)
 
-![](images/automotive/car52.jpg)
-![](images/automotive/car53.jpg)
-![](images/automotive/car54.jpg)
+![](images/automotive/car55.jpg) ![](images/automotive/car56.jpg) ![](images/automotive/car57.jpg)
 
-![](images/automotive/car55.jpg)
-![](images/automotive/car56.jpg)
-![](images/automotive/car57.jpg)
+![](images/automotive/car58.jpg) ![](images/automotive/car59.jpg) ![](images/automotive/car60.jpg)
 
-![](images/automotive/car58.jpg)
-![](images/automotive/car59.jpg)
-![](images/automotive/car60.jpg)
+![](images/automotive/car61.jpg) ![](images/automotive/car62.jpg) ![](images/automotive/car63.jpg)
 
-![](images/automotive/car61.jpg)
-![](images/automotive/car62.jpg)
-![](images/automotive/car63.jpg)
+![](images/automotive/car64.jpg) ![](images/automotive/car65.jpg) ![](images/automotive/car66.jpg)
 
-![](images/automotive/car64.jpg)
-![](images/automotive/car65.jpg)
-![](images/automotive/car66.jpg)
+![](images/automotive/car67.jpg) ![](images/automotive/car68.jpg) ![](images/automotive/car69.jpg)
 
-![](images/automotive/car67.jpg)
-![](images/automotive/car68.jpg)
-![](images/automotive/car69.jpg)
+![](images/automotive/car70.jpg) ![](images/automotive/car71.jpg) ![](images/automotive/car72.jpg)
 
-![](images/automotive/car70.jpg)
-![](images/automotive/car71.jpg)
-![](images/automotive/car72.jpg)
+![](images/automotive/car73.jpg) ![](images/automotive/car74.jpg) ![](images/automotive/car75.jpg)
 
-![](images/automotive/car73.jpg)
-![](images/automotive/car74.jpg)
-![](images/automotive/car75.jpg)
-
-![](images/automotive/car76.jpg)
-![](images/automotive/car77.jpg)
-![](images/automotive/car78.jpg)
+![](images/automotive/car76.jpg) ![](images/automotive/car77.jpg) ![](images/automotive/car78.jpg)
 :::
 
 ## PORTRAITS
 
-::: {layout-ncol=3}
+::: {layout-ncol="3"}
+![](images/portraits/portrait1.jpg) ![](images/portraits/portrait2.jpg) ![](images/portraits/portrait3.jpg)
 
-![](images/portraits/portrait1.jpg)
-![](images/portraits/portrait2.jpg)
-![](images/portraits/portrait3.jpg)
+![](images/portraits/portrait4.jpg) ![](images/portraits/portrait5.jpg) ![](images/portraits/portrait6.jpg)
 
-![](images/portraits/portrait4.jpg)
-![](images/portraits/portrait5.jpg)
-![](images/portraits/portrait6.jpg)
+![](images/portraits/portrait7.jpg) ![](images/portraits/portrait8.jpg) ![](images/portraits/portrait9.jpg)
 
-![](images/portraits/portrait7.jpg)
-![](images/portraits/portrait8.jpg)
-![](images/portraits/portrait9.jpg)
-
-![](images/portraits/portrait10.jpg)
-![](images/portraits/portrait11.jpg)
+![](images/portraits/portrait10.jpg) ![](images/portraits/portrait11.jpg)
 :::
 
 ## LIFESTYLE
 
-::: {layout-ncol=3}
-
-![](images/lifestyle/lifestyle1.jpg)
-![](images/lifestyle/lifestyle2.jpg)
-![](images/lifestyle/lifestyle3.jpg)
-
+::: {layout-ncol="3"}
+![](images/lifestyle/lifestyle1.jpg) ![](images/lifestyle/lifestyle2.jpg) ![](images/lifestyle/lifestyle3.jpg)
+:::
