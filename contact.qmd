@@ -22,4 +22,4 @@ South Florida
 
 For standard photography sessions:
 
-<a href="booking.qmd" class="button"> BOOK A SESSION </a>
+<a href="bookings.qmd" class="button"> BOOK A SESSION </a>
