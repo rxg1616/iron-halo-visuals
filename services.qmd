@@ -2,57 +2,61 @@
 title: "Price Breakdown"
 ---
 
-## Automotive Photography
-
-### Starting at \$\_\_\_
+# Automotive Photography
 
 Cinematic automotive photography designed to showcase the vehicle, its details, and the personality behind it.
 
-**Includes**
+### Photography Packages
 
-- Pre-shoot consultation
-- Location planning
-- Up to \_\_\_ hours of shooting
-- \_\_\_ professionally edited images
-- High-resolution digital delivery
+**Basic — \$125** - 30-minute shoot - 1 location - All raw photos - Digital delivery only
 
-<a href="booking.qmd" class="button"> BOOK AUTOMOTIVE </a>
+**Standard — \$175** - 1-hour shoot - 1–2 locations - All raw photos - Digital delivery only
+
+**Premium — \$225** - 2-hour shoot - Multiple locations - All raw photos - Digital delivery only
+
+<a href="booking.qmd" class="button">BOOK AUTOMOTIVE</a>
 
 ------------------------------------------------------------------------
 
 ## Portrait Photography
 
-### Starting at \$\_\_\_
-
 Cinematic portrait sessions designed around your personality, style, and vision.
 
-**Includes**
+### Photography Packages
 
-- Pre-shoot consultation
-- Location planning
-- Up to \_\_\_ hour session
-- \_\_\_ professionally edited images
-- High-resolution digital delivery
+**Basic — \$125** - 30-minute shoot - 1 location - All raw photos - Digital delivery only
 
-<a href="booking.qmd" class="button"> BOOK PORTRAIT </a>
+**Standard — \$175** - 1-hour shoot - 1–2 locations - All raw photos - Digital delivery only
+
+**Premium — \$225** - 2-hour shoot - Multiple locations - All raw photos - Digital delivery only
+
+<a href="booking.qmd" class="button">BOOK PORTRAIT</a>
 
 ------------------------------------------------------------------------
 
 ## Lifestyle Photography
 
-### Starting at \$\_\_\_
-
 Natural, cinematic imagery for individuals, brands, social media, and personal projects.
 
-**Includes**
+### Photography Packages
 
-- Creative planning
-- Location consultation
-- Up to \_\_\_ hours
-- \_\_\_ professionally edited images
-- High-resolution digital delivery
+**Basic — \$125** - 30-minute shoot - 1 location - All raw photos - Digital delivery only
 
-<a href="booking.qmd" class="button"> BOOK LIFESTYLE </a>
+**Standard — \$175** - 1-hour shoot - 1–2 locations - All raw photos - Digital delivery only
+
+**Premium — \$225** - 2-hour shoot - Multiple locations - All raw photos - Digital delivery only
+
+<a href="booking.qmd" class="button">BOOK LIFESTYLE</a>
+
+------------------------------------------------------------------------
+
+## Additional Services & Fees
+
+- **\$75 Deposit:** Required to secure your booking date and time.
+- **Additional Travel:** +\$30 for locations outside the local service area.
+- **Additional Shooting Time:** +\$35 per additional 30 minutes.
+
+The remaining balance is due on the day of the shoot.
 
 ------------------------------------------------------------------------
 
@@ -64,4 +68,4 @@ Have something different in mind?
 
 Iron Halo Visuals also offers customized photography packages for brands, events, automotive projects, creative campaigns, and other visual storytelling projects.
 
-<a href="contact.qmd" class="button"> CONTACT ME </a>
+<a href="contact.qmd" class="button">CONTACT ME</a>

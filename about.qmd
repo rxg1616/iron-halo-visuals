@@ -31,4 +31,4 @@ Have an idea?
 
 Let's turn it into something visual.
 
-BOOK A SESSION
+<a href="bookings.qmd" class="button">BOOK A SESSION</a>
